@@ -29,6 +29,7 @@ configurando um novo repositório
 
 -> git log
 
+-> git pull -> baixa as alterações das coisas novas feitas
 
 ------- observações -------
 comandos linux:

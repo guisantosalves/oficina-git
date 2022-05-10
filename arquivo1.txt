@@ -1,1 +1,3 @@
 arquivo 1
+
+para subir o projeto use o comando npm start

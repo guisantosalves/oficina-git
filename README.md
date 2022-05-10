@@ -31,6 +31,8 @@ configurando um novo repositório
 
 -> git pull -> baixa as alterações das coisas novas feitas
 
+-> git restore --source < id do commit desejado para restaurar > .
+
 ------- observações -------
 comandos linux:
 mkdir -> cria diretório no linux

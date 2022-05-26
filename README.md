@@ -33,6 +33,12 @@ configurando um novo repositório
 
 -> git restore --source < id do commit desejado para restaurar > .
 
+-------- criando branch ---------
+
+git branch -> visualizando branch
+
+git switch -c 33-criando-uma-nova-funcao
+
 ------- observações -------
 comandos linux:
 mkdir -> cria diretório no linux

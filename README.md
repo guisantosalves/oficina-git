@@ -41,7 +41,7 @@ git switch -c 33-criando-uma-nova-funcao
 
 
 
------- versionamento com branches -------------
+------ versionamento com branches -------------<br>
 git clone <código completo (master ou main)>
 
 git checkout <nome da branch que quer ir>

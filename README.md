@@ -39,6 +39,13 @@ git branch -> visualizando branch
 
 git switch -c 33-criando-uma-nova-funcao
 
+
+
+------ versionamento com branches -----
+-> git clone <código completo (master ou main)>
+
+-> git checkout <nome da branch que quer ir>
+
 ------- observações -------
 comandos linux:
 mkdir -> cria diretório no linux

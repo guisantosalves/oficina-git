@@ -33,6 +33,12 @@ configurando um novo repositório
 
 -> git restore --source < id do commit desejado para restaurar > .
 
+-> git show <hash do commit>
+
+-> git log --all --oneline --graph
+
+-> git diff -> compara o que eu fiz com o repositório
+
 -------- criando branch ---------
 
 git branch -> visualizando branch
